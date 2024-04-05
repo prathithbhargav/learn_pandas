@@ -16,4 +16,9 @@ The datasets are sourced from the following:
 2. `data/nobel_prize.csv`: a kaggle dataset file from https://www.kaggle.com/datasets/imdevskp/nobel-prize 
 3. `data/pune.csv`: data collected by CESSI, IISER Kolkata - http://www.cessi.in/coronavirus/pune
 
-## Resources I've Picked from:
+## Additonal Resources -
+
+These are some packages that use pandas and are important for scientific applications. 
+1. biopandas and moldf are used to handle files in structural chemistry/biology. 
+2. geopandas can be used to handle spatial data.
+
