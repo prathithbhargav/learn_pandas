@@ -1,5 +1,7 @@
 # Learn Pandas
-Repo for the IPLUG Session on Pandas. 
+Repo for the IPLUG Session on Pandas.
+
+If you wanna run this online, just click on the .ipynb files, and click `open in colab` and run. 
 
 ## Running on Local 
 If you do not already the following packages installed:
@@ -22,3 +24,6 @@ These are some packages that use pandas and are important for scientific applica
 1. biopandas and moldf are used to handle files in structural chemistry/biology. 
 2. geopandas can be used to handle spatial data.
 
+## References
+
+1. https://pandas.pydata.org/docs/user_guide/10min.html the pandas tutorial. 
